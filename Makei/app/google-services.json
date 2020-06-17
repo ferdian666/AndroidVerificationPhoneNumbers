@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187956499062",
+    "firebase_url": "https://verificationnumber-4de62.firebaseio.com",
+    "project_id": "verificationnumber-4de62",
+    "storage_bucket": "verificationnumber-4de62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187956499062:android:04b95ed20c66a23ac1c557",
+        "android_client_info": {
+          "package_name": "com.example.makei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187956499062-4ckss46u43eb6icuoj5v957mtvhms4u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlamWcXqmFN3HuNy9eZSJdNbGKzYm7W4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187956499062-4ckss46u43eb6icuoj5v957mtvhms4u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
